@@ -1,0 +1,69 @@
+.principal{
+
+    width: 90%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto ;
+    background-color: black;
+    margin: 5%;
+   
+ 
+   
+}
+.header{
+    background-color: aqua;
+    margin: 5%;
+    padding: 10px;
+    height: 45px;
+    
+}
+.main{
+    background-color: rgb(24, 6, 6);
+    height: 90%;
+    margin: 5%;
+   
+}
+  
+.box1{
+    width: 500px;
+    height: 210px;
+    margin: 5%;
+    background-color: blanchedalmond;
+
+}
+
+.box2{
+    width: 500px;
+    height: 300px;
+    margin: 5%;
+    background-color: blanchedalmond;
+
+}
+
+.box3{
+    float:right;
+    width: 325px;
+    height: 550px;
+    margin: 5%;
+    background-color: blanchedalmond;
+    position: relative;
+    top: -650px;
+    width: 325px;
+
+
+}
+.footer{
+    background-color: coral;
+    margin: 5%;
+    padding: 10px;
+    height: 45px;
+   
+}
+.secciones{
+    background-color: cadetblue;
+    width: 80%;
+    height: 30%;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
